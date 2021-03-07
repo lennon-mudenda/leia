@@ -1,6 +1,6 @@
 const css = require('css')
 
-export default class Leia
+class Leia
 {
 	constructor()
 	{
@@ -24,7 +24,7 @@ export default class Leia
 
 	camelCase()
 	{
-
+		return "fontSize"
 	}
 
 	validateProperty()
@@ -32,3 +32,5 @@ export default class Leia
 
 	}
 }
+
+module.exports.Leia = Leia
