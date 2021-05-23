@@ -4,7 +4,7 @@
   "description": "A simple library to allow using CSS in React-Native Projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": ["React", "StyleSheets", "CSS", "CSS to React Style Objects"],
   "author": "",
