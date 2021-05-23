@@ -6,6 +6,6 @@ const acceptedProperties = [
 
 ]
 
-export default {
+module.exports =  {
 	isValidStyleProperty
 }

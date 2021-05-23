@@ -5,6 +5,6 @@ const normalizeRule = (rule) => {
 const normalizers = {}
 
 
-export default {
+module.exports =  {
 	normalizeRule
 }

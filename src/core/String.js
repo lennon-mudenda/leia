@@ -20,7 +20,7 @@ const camelCase = (string = '') => {
 
 
 
-export default {
-	camelCase,
-	capitaliseFirst
+module.exports = {
+	capitaliseFirst,
+	camelCase
 }

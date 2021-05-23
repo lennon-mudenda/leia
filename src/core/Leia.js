@@ -1,7 +1,7 @@
 const css = require('css')
-const {capitaliseFirst, camelCase} = require('./String')
-const {normalizeRule} = require('./Normaliser')
-const {isValidStyleProperty} = require('./Validator')
+const {capitaliseFirst, camelCase} = require('./String.js')
+const {normalizeRule} = require('./Normaliser.js')
+const {isValidStyleProperty} = require('./Validator.js')
 
 class Leia
 {
